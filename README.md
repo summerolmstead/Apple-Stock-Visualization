@@ -1,2 +1,2 @@
 # Apple-Stock-Visualization
-With Apple stock data from 2015-2020, I create visualizations of the data to look into potential patterns and trends.
+With Apple stock data from 2015-2020, I create visualizations of the data to look into potential patterns and trends. In particular, the 3D Apple visualization where x is the closing price, y is the time(year), and z is the volume of trade of that day. Moreover, the color of the data point is green or red based on if the closing price is higher or lower than the opening price of that day.  
